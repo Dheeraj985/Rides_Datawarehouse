@@ -50,7 +50,7 @@ Contains ~690,000 rows of rideshare data with pricing, weather, and location det
   - `dim_weather`
   - `dim_geolocation`
 
-![ERD](diagrams/star_schema.png)
+![ERD](Diagrams/star_schema.png)
 
 ---
 
